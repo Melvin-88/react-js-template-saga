@@ -4,6 +4,7 @@ assets/bundle.js.map
 bundle.js.map
 stylesheet.css.map
 npm-debug.log
+#package-lock.json
 
 # IntelliJ
 *.iml
